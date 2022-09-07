@@ -1,0 +1,6 @@
+brew "antigen"
+brew "neovim", args: ["HEAD"]
+brew "stow"
+brew "zsh"
+cask "iterm2"
+
